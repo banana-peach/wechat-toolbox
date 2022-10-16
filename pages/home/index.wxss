@@ -1,0 +1,7 @@
+/* pages/home/index.wxss */
+.container button {
+    color: #FBFBFB;
+    background-color: #4C97E5;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}

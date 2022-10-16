@@ -1,0 +1,9 @@
+<!-- pages/home/index.wxml -->
+<block>
+    <view class="container">
+
+        <!-- <button type='primary' bindtap="getUserProfile">获取头像昵称</button> -->
+        <button  bindtap="goToMoney">记账本</button>
+        <button bindtap="goToGame">游戏</button>
+    </view>
+</block>
